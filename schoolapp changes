@@ -1,0 +1,52 @@
+
+Application will be used by teacher,parent & student rest of all will be using website
+
+
+Roles:
+SuperAdmin(product owner not school) : access provided to all functionality
+
+SchoolRole:
+1)	SchoolAdmin(Read/write/update/delete access)
+Able to add/change fee strcture
+class wise subjects
+student details 
+teacher payrolls(generating document)
+transport ( buses allocated based on pincodes)
+extra circular
+computer lab, library access maintence,
+goodies tracking(duster, chalkpiece etc)
+events scheduling & tracking
+alumins
+timtable 
+2)	Principal(Read/access all functionality)
+Can see student attendance, report cards, fee , remaining balance, teachers time table,
+Leaseure time of both student & teacher, student profile, payrolls access , transport module, extra circular , computer lab, library access maintence, goodies tracking,
+events scheduling & tracking, alumins timtable
+3)	Teacher(Read/write/update)
+Student marks, attendance, syllabus tracking, student profile, timetable, goodies allocation.
+4)	Parents(Read)
+Student bio data everything , transportation allocation, fee reminders.
+5)	Student(Read)
+                Student bio data 
+
+
+
+4.3  Error Paths
+I need to validate phone number and school email id
+
+
+6.2 
+Colour vice captian & house need to be defined
+
+
+9.2 customization  has to be provided for the attendance(half,full,weekday)
+10.2
+ Grades, marks ,percentage & cgpa
+
+17 0q7 yet to be disscused
+Oq12 principal decides the exams and teacher decides the assessment
+
+To save images 
+Lets prefer azure or zoho workdriver
+
+
